@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Git Training 12-02-2021
+>>>>>>> b4
 second change
 testing reset
