@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Git Training 12-02-2021
->>>>>>> b4
+Git Training 12-02-2021 and chnages 
 second change
 testing reset
+
